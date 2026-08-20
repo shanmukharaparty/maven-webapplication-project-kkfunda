@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to DEMO PRACTICES LUV 🚀</h1>
+    <h1>🚀 Welcome to DEMO  🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
